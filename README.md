@@ -10,9 +10,9 @@
  
  🌱 Atualmente estou estudando **Pyhon**
 
-💬 Me pergunte sobre **filmes e series**
+ 💬 Me pergunte sobre **filmes e series**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **O nome do tio de Zuko, Iroh, significa "a sorte venha" em japonês**
 
  </div>
  
