@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marcos-anjos.marcos-anjos" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Seja+Bem+vindo!+👋;+Meu+nomeu+é+Marcos+Vinicius!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Seja+Bem+vindo!+👋;+Meu+nome+é+Marcos+Vinicius!;" />
 </h1>
 
 <div align="center">
@@ -31,7 +31,7 @@
 <h2 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql"  />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
     <img src="https://skillicons.dev/icons?i=python,pycharm" /><br>
 </div>
 
