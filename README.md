@@ -31,8 +31,8 @@
 <h2 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql"  />
+    <img src="https://skillicons.dev/icons?i=python,js" /><br>
 </div>
 
 <br/>
