@@ -31,11 +31,18 @@
 <h2 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql"  />
-    <img src="https://skillicons.dev/icons?i=python,js" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql"  />
+    <img src="https://skillicons.dev/icons?i=python,pycharm" /><br>
 </div>
 
 <br/>
 <hr/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-anjos&hide_progress=true)
+<div align="center">
+  <h2>🐍 Minhas contribuições 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/marcos-anjos/marcos-anjos/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
