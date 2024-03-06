@@ -6,11 +6,11 @@
 
 <div align="center">
  
- 🔭 Estudante de **Ciência da computação**
+ 🎓 Estudante de **Ciência da computação**
  
  🌱 Atualmente estou estudando **Pyhon**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Me pergunte sobre **filmes e series**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
