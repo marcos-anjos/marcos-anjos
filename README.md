@@ -8,9 +8,9 @@
 
  🎓 Estudante de **Ciência da computação**
 
-🌱 Atualmente estou estudando **Pyhon**
+🌱 Atualmente estou estudando **Pyhon, Django**
 
-💬 Me pergunte sobre **filmes, series e tecnologia**
+💬 Me pergunte sobre **HTML, CSS**
 
  </div>
 
