@@ -10,7 +10,7 @@
 
 🌱 Atualmente estou estudando **Pyhon, Django**
 
-💬 Me pergunte sobre **HTML, CSS**
+⚡ Fun fact **midnight programmer**
 
  </div>
 
