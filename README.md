@@ -8,7 +8,7 @@
 
  🎓 Estudante de **Ciência da computação**
 
-🌱 Atualmente estou estudando **Pyhon, Pandas, NumPy**
+🌱 Atualmente estou estudando **Pyhon, Pandas**
 
 ⚡ Fun fact **midnight programmer**
 
