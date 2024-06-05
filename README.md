@@ -1,7 +1,7 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=59C1C0&lines=Welcome!+%F0%9F%91%8B;My+name+is+Marcos+Vinicius!;I'am+a+data+analyst." /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=5072BA&lines=Welcome!+%F0%9F%91%8B;My+name+is+Marcos+Vinicius!;I'am+a+data+analyst." /></h1>
 
   <div id="header" align="right">
-  <img src="https://komarev.com/ghpvc/?username=marcos-anjos&style=for-the-badge&color=59C1C0" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=marcos-anjos&style=for-the-badge&color=5072BA" alt=""/>
 </div>
 
 <div align="left">
