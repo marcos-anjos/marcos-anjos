@@ -1,7 +1,7 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=1E9FAB&lines=Welcome!+%F0%9F%91%8B;My+name+is+Marcos+Vinicius!;I'am+a+data+analyst." /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=DDA767&lines=Welcome!+%F0%9F%91%8B;My+name+is+Marcos+Vinicius!;I'am+a+data+analyst." /></h1>
 
   <div id="header" align="right">
-  <img src="https://komarev.com/ghpvc/?username=marcos-anjos&style=for-the-badge&color=1E9FAB" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=marcos-anjos&style=for-the-badge&color=DDA767" alt=""/>
 </div>
 
 <div align="left">
@@ -91,7 +91,7 @@
     <img width="53%" src="https://github-readme-stats.vercel.app/api?username=marcos-anjos&show_icons=true&theme=transparent" />
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-anjos&layout=compact&langs_count=7&theme=transparent" />
  
- ![Github activity graph](https://ssr-contributions-svg.vercel.app/_/marcos-anjos?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=15&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
+ ![Github activity graph](https://ssr-contributions-svg.vercel.app/_/marcos-anjos?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=15&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=yellow) 
  
 </div>
 
