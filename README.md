@@ -1,7 +1,7 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=DDA767&lines=Welcome!+%F0%9F%91%8B;My+name+is+Marcos+Vinicius!;I'am+a+data+analyst." /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=c779d0&lines=Welcome!+%F0%9F%91%8B;My+name+is+Marcos+Vinicius!;I'am+a+data+analyst." /></h1>
 
   <div id="header" align="right">
-  <img src="https://komarev.com/ghpvc/?username=marcos-anjos&style=for-the-badge&color=DDA767" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=marcos-anjos&style=for-the-badge&color=c779d0" alt=""/>
 </div>
 
 <div align="left">
@@ -18,10 +18,6 @@
 
  </div>
  
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1679AB,50:5DEBD7,100:C5FF95&height=130&section=footer"/> -->
- 
-</div>
- 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /> Contact with me:</h3>
 
 <p align="left">
@@ -31,6 +27,8 @@
   <a href="https://example.com" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://marcos-anjos.github.io/Data-Analyst-Portifolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=120&section=footer"/> 
 
 <hr/>
 
@@ -91,7 +89,7 @@
     <img width="53%" src="https://github-readme-stats.vercel.app/api?username=marcos-anjos&show_icons=true&theme=transparent" />
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-anjos&layout=compact&langs_count=7&theme=transparent" />
  
- ![Github activity graph](https://ssr-contributions-svg.vercel.app/_/marcos-anjos?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=15&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=yellow) 
+ ![Github activity graph](https://ssr-contributions-svg.vercel.app/_/marcos-anjos?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=15&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple) 
  
 </div>
 
