@@ -1,7 +1,7 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=00dbde&lines=Welcome!+%F0%9F%91%8B;My+name+is+Marcos+Vinicius!;I'am+a+data+analyst." /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=20BDFF&lines=Welcome!+%F0%9F%91%8B;My+name+is+Marcos+Vinicius!;I'am+a+data+analyst." /></h1>
 
   <div id="header" align="right">
-  <img src="https://komarev.com/ghpvc/?username=marcos-anjos&style=for-the-badge&color=00dbde" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=marcos-anjos&style=for-the-badge&color=20BDFF" alt=""/>
 </div>
 
 <div align="left">
@@ -28,7 +28,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=120&section=footer"/> 
 
 <hr/>
 
