@@ -28,7 +28,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:20BDFF,100:A5FECB&height=120&section=footer"/> 
 
 <hr/>
 
