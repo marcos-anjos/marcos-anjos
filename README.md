@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=20BDFF&lines=Welcome!+%F0%9F%91%8B;My+name+is+Marcos+Vinicius!;I'am+a+data+analyst." /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=20BDFF&lines=Welcome!+%F0%9F%91%8B;My+name+is+Marcos+Vinicius!;" /></h1>
 
   <div id="header" align="right">
   <img src="https://komarev.com/ghpvc/?username=marcos-anjos&style=for-the-badge&color=20BDFF" alt=""/>
@@ -12,7 +12,7 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="25" height="25" /> All of my projects are available at <a href="https://marcos-anjos.github.io/Java-Backend-Portfolio/" target="_blank">Portfolio</a>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Ask me about **Python**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Ask me about **Java and Python**
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" width="25" height="25" /> Fun fa*cat* **Midnight Programmer**
 
