@@ -4,22 +4,17 @@
   <img src="https://komarev.com/ghpvc/?username=marcos-anjos&style=for-the-badge&color=20BDFF" alt=""/>
 </div>
 
-<div align="right">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="40" height="40" />
 <div align="left">
 
- - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> *Estudante de Ciência da Computação*
+ - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="30" height="30" /> *Estudante de Ciência da Computação*
 
- - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png" alt="Footprints" width="25" height="25" /> Atualmente estudando **Estruturas de Dados e Algoritmos**
+ - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png" alt="Footprints" width="30" height="30" /> Atualmente estudando **Estruturas de Dados e Algoritmos**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="25" height="25" /> Todos os meus projetos estão disponíveis em <a href="https://marcos-anjos.github.io/Backend-Portfolio/" target="_blank">Portfólio</a>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="30" height="30" /> Todos os meus projetos estão disponíveis em <a href="https://marcos-anjos.github.io/Backend-Portfolio/" target="_blank">Portfólio</a>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Pergunte-me sobre **Java e Python**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="30" height="30" /> Pergunte-me sobre **Java e Python**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" width="25" height="25" /> Fun fa*cat* **Midnight Programmer**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" width="30" height="30" /> Fun fa*cat* **Midnight Programmer**
 
  </div>
  
