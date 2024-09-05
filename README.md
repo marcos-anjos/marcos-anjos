@@ -29,7 +29,7 @@
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:20BDFF,50:6EE7B7,100:A5FECB&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F7FF,50:20BDFF,100:E0F7FF&height=140&section=footer"/>
  
 
 <hr/>
