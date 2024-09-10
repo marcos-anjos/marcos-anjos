@@ -53,13 +53,16 @@
  Frameworks e Bibliotecas</h3>
 <p>
   <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"></a>
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
-  <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-  <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
-  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
-  <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"></a>
+  <a href="https://docs.streamlit.io/"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"></a>
+  <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+  <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
+  <a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-f76d36.svg?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
+  <a href="https://seaborn.pydata.org/index.html"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-009688.svg?style=for-the-badge&logo=seaborn&logoColor=white"></a>
+  <a href="https://plotly.com/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"></a>
+  <a href="https://scikit-learn.org/"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
 </p>
+
 
   
  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" />
@@ -67,6 +70,7 @@
  <p>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -86,9 +90,9 @@
 </h2>
 <br>
 <div align=center>
- <blockquote>
-    <p><strong><em>"The goal is to turn data into information, and information into insight."</em></strong></p>
-    <footer>&mdash; Carly Fiorina</footer>
+<blockquote>
+    <p><strong><em>"Good backend systems are like good architecture: they should be invisible, reliable, and scalable, allowing the user to focus on the experience rather than the mechanics."</em></strong></p>
+    <footer>&mdash; Anonymous</footer>
 </blockquote>
 </p>
 </div>
