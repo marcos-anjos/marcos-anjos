@@ -18,7 +18,7 @@
 
  </div>
  
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /> Entre em contato comigo:</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="35" height="35" /> Entre em contato comigo:</h3>
 
 <p align="left">
   <a href="https://example.com" target="_blank"><img src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
