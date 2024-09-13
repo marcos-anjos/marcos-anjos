@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=049DD6&lines=Bem-vindo(a)!+%F0%9F%91%8B;Meu+nome+é+Marcos+Vinicius!;Sou+um+desenvolvedor+de+software!+%E2%9C%8C%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=049DD6&lines=Bem-vindo(a)!+%F0%9F%91%8B;Meu+nome+é+Marcos+Vinicius!;Sou+um+Desenvolvedor+de+Software!+%E2%9C%8C%EF%B8%8F" />
 </h1>
 
 <div id="header" align="right">
@@ -102,10 +102,10 @@
 
 <div align=center>
     <img height="100%" src="https://github-readme-stats.vercel.app/api?username=marcos-anjos&show_icons=true&theme=transparent&rank_icon=github" />
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-anjos&layout=compact" />
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-anjos&theme=transparent&layout=compact" />
  
- ![Github activity graph](https://ssr-contributions-svg.vercel.app/_/marcos-anjos?chart=3dbar&gap=0.8&scale=2.5&flatten=2&animation=wave&animation_duration=1.3&animation_delay=0.1&animation_amplitude=15&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
- 
+![Github activity graph](https://ssr-contributions-svg.vercel.app/_/marcos-anjos?chart=3dbar&gap=0.8&scale=2.5&flatten=2&animation=wave&animation_duration=1.3&animation_delay=0.1&animation_amplitude=15&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
+
 </div>
 
 <h3 align="center">
