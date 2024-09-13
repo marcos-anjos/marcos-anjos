@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=4bc0c8&lines=Bem-vindo(a)!+%F0%9F%91%8B;Meu+nome+é+Marcos+Vinicius!;Sou+um+desenvolvedor+de+software!+%E2%9C%8C%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=049DD6&lines=Bem-vindo(a)!+%F0%9F%91%8B;Meu+nome+é+Marcos+Vinicius!;Sou+um+desenvolvedor+de+software!+%E2%9C%8C%EF%B8%8F" />
 </h1>
 
 <div id="header" align="right">
-  <img src="https://komarev.com/ghpvc/?username=marcos-anjos&style=for-the-badge&color=4bc0c8" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=marcos-anjos&style=for-the-badge&color=049DD6" alt=""/>
 </div>
 
 <div align="left">
@@ -31,7 +31,7 @@
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:049DD6,50:66B2FF,100:A5D6FF&height=140&section=footer"/>
 
 
  
