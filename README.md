@@ -101,10 +101,10 @@
 </div>
 
 <div align=center>
-    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=marcos-anjos&show_icons=true&theme=transparent" />
+    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=marcos-anjos&show_icons=true&theme=transparent&rank_icon=github" />
     <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-anjos&layout=compact&langs_count=7&theme=transparent" />
  
- ![Github activity graph](https://ssr-contributions-svg.vercel.app/_/marcos-anjos?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=15&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
+ ![Github activity graph](https://ssr-contributions-svg.vercel.app/_/marcos-anjos?chart=3dbar&gap=0.8&scale=2.5&flatten=2&animation=wave&animation_duration=1.3&animation_delay=0.1&animation_amplitude=15&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
  
 </div>
 
