@@ -94,8 +94,8 @@
 <br>
 <div align=center>
 <blockquote>
-    <p><strong><em>"Good backend systems are like good architecture: they should be invisible, reliable, and scalable, allowing the user to focus on the experience rather than the mechanics."</em></strong></p>
-    <footer>&mdash; Anonymous</footer>
+    <p><strong><em>"Um bom sistema backend é como um bom alicerce: deve ser sólido, invisível e eficiente, permitindo que o usuário se concentre na experiência sem se preocupar com a estrutura por trás."</em></strong></p>
+    <footer>&mdash; Paulo Silveira</footer>
 </blockquote>
 </p>
 </div>
@@ -107,4 +107,9 @@
  ![Github activity graph](https://ssr-contributions-svg.vercel.app/_/marcos-anjos?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=15&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
  
 </div>
+
+<h3 align="center">
+	⬇ Confira meus projetos fixados abaixo e deixe uma ⭐️ ⬇
+</h3>
+
 
