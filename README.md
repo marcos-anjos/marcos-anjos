@@ -1,7 +1,9 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=20BDFF&lines=Bem-vindo(a)!+%F0%9F%91%8B;Meu+nome+é+Marcos+Vinicius!;" /></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=049DD6&lines=Bem-vindo(a)!+%F0%9F%91%8B;Meu+nome+é+Marcos+Vinicius!;Sou+um+desenvolvedor+de+software!+%E2%9C%8C%EF%B8%8F" />
+</h1>
 
 <div id="header" align="right">
-  <img src="https://komarev.com/ghpvc/?username=marcos-anjos&style=for-the-badge&color=20BDFF" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=marcos-anjos&style=for-the-badge&color=049DD6" alt=""/>
 </div>
 
 <div align="left">
@@ -29,9 +31,10 @@
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0AEFFF,50:20BDFF,100:0AEFFF&height=130&section=footer"/>
- 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:049DD6,25:1D9BF0,50:43cea2,75:2E9A7B,100:049DD6&height=130&section=footer"/>
 
+
+ 
 <hr/>
 
 <h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" height="35" />
