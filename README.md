@@ -3,8 +3,10 @@
 </h1>
 
 <div id="header" align="right">
-  <img src="https://komarev.com/ghpvc/?username=marcos-anjos&style=for-the-badge&color=049DD6" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=marcos-anjos&style=plastic&color=049DD6" alt=""/>
 </div>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <div align="left">
 
