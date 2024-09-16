@@ -8,7 +8,7 @@
 
 <div align="left">
 
- -  <img src="https://em-content.zobj.net/thumbs/240/apple/354/laptop_1f4bb.png" alt="Laptop" width="30" height="30" /> Estudante de Ciência da Computação
+ - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" height="30" /> *Estudante de Ciência da Computação*
 
  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png" alt="Footprints" width="30" height="30" /> Atualmente estudando **Estruturas de Dados e Algoritmos**
 
