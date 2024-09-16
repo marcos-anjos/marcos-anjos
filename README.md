@@ -8,7 +8,7 @@
 
 <div align="left">
 
- -  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Animated Icon" width="30" height="30" /> *Estudante de Ciência da Computação*
+ -  <img src="https://em-content.zobj.net/thumbs/240/apple/354/laptop_1f4bb.png" alt="Laptop" width="30" height="30" /> Estudante de Ciência da Computação
 
  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png" alt="Footprints" width="30" height="30" /> Atualmente estudando **Estruturas de Dados e Algoritmos**
 
@@ -88,8 +88,8 @@
 </p>
  
 <hr/>
-<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="30" height="30" />
- Status <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="30" height="30" />
+<h2 align="left"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Animated Icon" width="30" height="30" />
+ Status <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Animated Icon" width="30" height="30" />
 </h2>
 <br>
 <div align=center>
