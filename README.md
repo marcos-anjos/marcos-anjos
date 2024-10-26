@@ -52,20 +52,13 @@ def profile():
 
 ```tsx
 
-cafe = 0 
+sleepy = False  
 
-def beber_cafe():
-    global cafe
-    cafe += 1
-    print(f"Você bebeu {cafe} xícara(s) de café! ☕️")
-
-sleepy = False
-
-if sleepy:
-    print("Você está com sono. Beba café para acordar! ☕️")
-    beber_cafe()
+if not sleepy:
+    print("☕️ I turn coffee into code ❤️")
 else:
-    print("Pronto para codar! ☕️❤️")
+    print("Beba café antes de codar! ☕️")
+
 
 ```
 
