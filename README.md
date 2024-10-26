@@ -33,7 +33,7 @@
 
 </center>
 
-<img align='left' height='220' style="margin-right:20px" src='assets/firmware.svg' alt='Mudar imagem'>
+<img align='left' height='210' style="margin-right:20px" src='assets/firmware.svg' alt='Mudar imagem'>
 
 ```tsx
 def profile():
