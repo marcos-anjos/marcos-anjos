@@ -94,13 +94,10 @@ else:
 <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 
-<div align=center>
-    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=marcos-anjos&show_icons=true&theme=material-palenight&rank_icon=github" />
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-anjos&theme=material-palenight&layout=compact" />
-
-</div>
-
 <h3 align="center">
 	⬇ Confira meus projetos fixados abaixo e deixe uma ⭐️ ⬇
+
+ ![Github activity graph](https://ssr-contributions-svg.vercel.app/_/marcos-anjos?chart=3dbar&gap=0.8&scale=2.5&flatten=2&animation=wave&animation_duration=1.3&animation_delay=0.1&animation_amplitude=15&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple) 
+
 </h3>
 
