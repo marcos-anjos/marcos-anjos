@@ -48,7 +48,7 @@ def profile():
 
 ```
 
-<img align='right' height='210' style="margin-left:20px" src='assets/dashboard.svg' alt='Mudar imagem'>
+<img align='left' height='210' style="margin-left:20px" src='assets/dashboard.svg' alt='Mudar imagem'>
 
 ```tsx
 
