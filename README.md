@@ -48,16 +48,25 @@ def profile():
 
 ```
 
-<img align='right' height='210' style="margin-left:20px" src='assets/dashboard.svg' alt='Mudar imagem'>
+<img align='right' height='200' style="margin-left:20px" src='assets/dashboard.svg' alt='Mudar imagem'>
 
 ```tsx
 
-sleepy = False  
+cafe = 0 
 
-if not sleepy:
-    print("I turn coffee into code ❤️")
+def beber_cafe():
+    global cafe
+    cafe += 1
+    print(f"Você bebeu {cafe} xícara(s) de café! ☕️")
+
+sleepy = False
+
+if sleepy:
+    print("Você está com sono. Beba café para acordar! ☕️")
+    beber_cafe()
 else:
-    print("Beba café antes de codar! ☕️")
+    print("Pronto para codar! ☕️❤️")
+
 ```
 
 </div>
