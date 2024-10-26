@@ -48,7 +48,7 @@ def profile():
 
 ```
 
-<img align='right' height='180' style="margin-left:20px" src='assets/dashboard.svg' alt='Mudar imagem'>
+<img align='right' height='200' style="margin-left:20px" src='assets/dashboard.svg' alt='Mudar imagem'>
 
 ```tsx
 
@@ -64,7 +64,8 @@ else:
 
 ```
 
-</div>
+<hr>
+
 
 ### 💻 Linguagens | Frameworks | Ferramentas | Banco de Dados 
 
@@ -94,8 +95,8 @@ else:
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 
 <div align=center>
-    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=marcos-anjos&show_icons=true&theme=transparent&rank_icon=github" />
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-anjos&theme=transparent&layout=compact" />
+    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=marcos-anjos&show_icons=true&theme=material-palenight&rank_icon=github" />
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-anjos&theme=material-palenight&layout=compact" />
 
 </div>
 
