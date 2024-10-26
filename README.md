@@ -33,7 +33,7 @@
 
 </center>
 
-<img align='left' height='180' style="margin-right:20px" src='assets/firmware.svg' alt='Mudar imagem'>
+<img align='left' height='190' style="margin-right:20px" src='assets/firmware.svg' alt='Mudar imagem'>
 
 ```tsx
 def profile():
@@ -48,7 +48,7 @@ def profile():
 
 ```
 
-<img align='right' height='200' style="margin-left:20px" src='assets/dashboard.svg' alt='Mudar imagem'>
+<img align='right' height='180' style="margin-left:20px" src='assets/dashboard.svg' alt='Mudar imagem'>
 
 ```tsx
 
@@ -65,10 +65,6 @@ else:
 ```
 
 </div>
-
-<br>
-<hr/>
-
 
 ### 💻 Linguagens | Frameworks | Ferramentas | Banco de Dados 
 
