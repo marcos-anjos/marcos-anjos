@@ -17,7 +17,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="30" height="30" /> Pergunte-me sobre <strong>Java e Python</strong>
   </li>
   <li style="margin-bottom: 10px;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" width="30" height="30" /> Fun fa*cat* <strong>Midnight Programmer</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" width="30" height="30" /> Fun FA<em>cat</em> <strong>Midnight Programmer</strong>
   </li>
 </ul>
 
