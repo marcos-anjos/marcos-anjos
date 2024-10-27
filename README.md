@@ -52,16 +52,16 @@ def profile():
 
 ```tsx
 
-sleepy = True  
+com_sono = True  
 cafe = 0  
 
-if sleepy:  
+if com_sono:  
     print("Você está com sono! ☕️")  
     cafe += 1  
     print(f"Bebendo {cafe} xícara(s) de café...")  
 else:  
     print("Pronto para codar! ❤️")  
-
+ 
 ```
 
 <hr>
