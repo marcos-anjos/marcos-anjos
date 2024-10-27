@@ -44,6 +44,8 @@ def profile():
         "hobbies": ["Ficção científica", "Cinema", "Programação"],
     }
 
+    user_profile = profile()
+
     print(user_profile)
 
 ```
