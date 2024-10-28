@@ -11,7 +11,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" height="30" /> Estudante de <strong>Ciência da Computação</strong>
   </li>
   <li style="margin-bottom: 10px;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png" alt="Footprints" width="30" height="30" /> Atualmente estudando <strong>Estruturas de Dados e Algoritmos</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png" alt="Footprints" width="30" height="30" /> Atualmente estudando <strong>Avaliação de Modelos e SQL</strong>
   </li>
   <li style="margin-bottom: 10px;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="30" height="30" /> Pergunte-me sobre <strong>Java e Python</strong>
