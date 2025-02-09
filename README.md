@@ -8,7 +8,7 @@
 
 <ul style="list-style-type: none; padding: 0;">
   <li style="margin-bottom: 10px;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" height="30" /> Estudante de <strong>Ciência da Computação</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" height="30" /> Estudante de <strong>Ciência da Computação na UFBA</strong>
   </li>
   <li style="margin-bottom: 10px;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png" alt="Footprints" width="30" height="30" /> Atualmente estudando <strong>Avaliação de Modelos e SQL</strong>
